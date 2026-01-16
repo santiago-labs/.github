@@ -1,4 +1,4 @@
-[<p align="center">
+<p align="center">
   <img src="logo.png" width="140" alt="Santiago Labs Logo"/>
 </p>
 
@@ -63,4 +63,5 @@ GitHub · Git · Rest APIs · IntelliJ IDEA
 **Mauricio Santiago**  
 Desenvolvedor Backend | Java & Spring  
 
-](https://github.com/santiago-labs?view_as=public)
+https://www.linkedin.com/in/mauricio-sanntiago/
+https://github.com/santiago-labs?view_as=public
